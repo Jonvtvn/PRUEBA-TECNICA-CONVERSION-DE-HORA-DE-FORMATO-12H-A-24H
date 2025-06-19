@@ -1,6 +1,6 @@
 # ⏰ Conversión de Hora: Formato 12H a 24H
 
-Este proyecto contiene una función en Python que convierte una hora desde el formato de 12 horas (AM/PM) al formato de 24 horas (también llamado formato militar).
+Este proyecto contiene una función en Python que convierte una hora desde el formato de 12 horas (AM/PM) al formato de 24 horas (militar).
 
 ---
 
@@ -33,3 +33,8 @@ Este proyecto contiene una función en Python que convierte una hora desde el fo
 2. Abre una terminal y navega hasta la carpeta del proyecto.
 
 3. Ejecuta el archivo `.py` con el siguiente comando:
+
+```bash
+python pt_CONVERSIONDEHORADEFORMATO12HA24H.py
+```
+
